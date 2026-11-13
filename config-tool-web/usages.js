@@ -200,6 +200,7 @@ const usages = {
         "0x000c006f": { 'name': 'Brightness up', 'class': 'media' },
         "0x000c0070": { 'name': 'Brightness down', 'class': 'media' },
         "0x000c0192": { 'name': 'Calculator', 'class': 'media' },
+        "0x000c0194": { 'name': 'My Computer', 'class': 'media' },
         "0x000c0223": { 'name': 'Home', 'class': 'media' },
 
         "0x00000000": { 'name': 'Nothing', 'class': 'other' },
@@ -432,6 +433,7 @@ const usages = {
         "0x000c006f": { 'name': 'Brightness up', 'class': 'media' },
         "0x000c0070": { 'name': 'Brightness down', 'class': 'media' },
         "0x000c0192": { 'name': 'Calculator', 'class': 'media' },
+        "0x000c0194": { 'name': 'My Computer', 'class': 'media' },
         "0x000c0223": { 'name': 'Home', 'class': 'media' },
     },
     2: {
